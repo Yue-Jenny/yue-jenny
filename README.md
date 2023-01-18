@@ -4,7 +4,7 @@ I'm Jenny.
 
 Welcome to my [blog](https://yue-jenny.github.io/)⚡.
 
-I will share what I have learned in my blog.
+I will share what I learned in my blog.
 
 Let us grow together.🌱🌱🌱
 
