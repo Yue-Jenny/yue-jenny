@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is my [blog](https://yue-jenny.github.io/).
+
 <!--
 **Yue-Jenny/yue-jenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
