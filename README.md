@@ -1,6 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
-This is my [blog](https://yue-jenny.github.io/).
+I'm Jenny.
+
+Welcome to my [blog](https://yue-jenny.github.io/)⚡.
+
+I will share what I have learned in my blog.
+
+Let us grow together.🌱🌱🌱
 
 <!--
 **Yue-Jenny/yue-jenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
