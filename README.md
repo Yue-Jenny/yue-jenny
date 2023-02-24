@@ -2,7 +2,7 @@
 
 I'm Jenny.
 
-Welcome to my [blog](https://yue-jenny.github.io/)⚡.
+Welcome to [my blog](https://yue-jenny.github.io/)⚡ and [leetcode practice](https://github.com/Yue-Jenny/public-leetcode).
 
 I will share what I learned in my blog.
 
