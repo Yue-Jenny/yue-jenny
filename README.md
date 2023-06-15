@@ -2,11 +2,11 @@
 
 I'm Jenny.
 
-Welcome to [my blog](https://yue-jenny.github.io/)⚡ and [leetcode practice](https://github.com/Yue-Jenny/public-leetcode).
+Welcome to [my blog](https://yue-jenny.github.io/)and [leetcode practice](https://github.com/Yue-Jenny/public-leetcode).
 
 I will share what I learned in my blog.
 
-Let us grow together.🌱🌱🌱
+Let us grow together. 🌱
 
 <!--
 **Yue-Jenny/yue-jenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
